@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1784985491 source:d:\c++\codeblocks_project\sweeper\gamerender.cpp
+	"Minesweeper.h"
+	"Gamerender.h"
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1784791008 d:\c++\codeblocks_project\sweeper\minesweeper.h
+	<iostream>
+
+1784857441 d:\c++\codeblocks_project\sweeper\gamerender.h
+	"Minesweeper.h"
+	<iostream>
+
+1784982928 source:d:\c++\codeblocks_project\sweeper\main.cpp
+	<iostream>
+	"Gamerender.h"
+	"Minesweeper.h"
+	<cstdlib>
+	<ctime>
+
+1784858883 source:d:\c++\codeblocks_project\sweeper\minesweeper.cpp
+	<iostream>
+	"Minesweeper.h"
+
+1784985491 source:d:\ѧϰ\coding\c++\codeblocks_project\sweeper\gamerender.cpp
+	"Minesweeper.h"
+	"Gamerender.h"
+	<iostream>
+	<cmath>
+	<iomanip>
+
+1784791008 d:\ѧϰ\coding\c++\codeblocks_project\sweeper\minesweeper.h
+	<iostream>
+
+1784857441 d:\ѧϰ\coding\c++\codeblocks_project\sweeper\gamerender.h
+	"Minesweeper.h"
+	<iostream>
+
+1784982928 source:d:\ѧϰ\coding\c++\codeblocks_project\sweeper\main.cpp
+	<iostream>
+	"Gamerender.h"
+	"Minesweeper.h"
+	<cstdlib>
+	<ctime>
+
+1784858883 source:d:\ѧϰ\coding\c++\codeblocks_project\sweeper\minesweeper.cpp
+	<iostream>
+	"Minesweeper.h"
+
